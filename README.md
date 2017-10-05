@@ -13,7 +13,7 @@ The solution is found:
 * Numpy
 * Matplotlib 
 
-### How to run the notebook
+### Run the notebook
 ```sh
 $ jupyter-notebook Poisson2D.ipynb
 ```
