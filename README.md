@@ -7,11 +7,13 @@ The solution is found:
 - Numerically: spectral method 
 - Numerically: finite differneces 
 
-Requirements: 
-- Python 3 
-- Jupyter Notebook
-- Numpy
-- Matplotlib 
+### Dependencies
+* Python 3 
+* Jupyter Notebook
+* Numpy
+* Matplotlib 
 
-How to run the notebook: <br>
-- <code>jupyter-notebook Poisson2D.ipynb</code>
+### How to run the notebook
+```sh
+$ jupyter-notebook Poisson2D.ipynb
+```
